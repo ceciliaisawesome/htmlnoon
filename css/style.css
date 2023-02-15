@@ -1,0 +1,80 @@
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: lightcoral;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    margin: 5px;
+    color: red;
+}
+li a:hover{background-color: midnightblue}
+h2{
+    font-size: 1cm;
+}
+p{
+    color: darkslategray;
+    font-family: MathJax_Main;
+}
+
+th,td{
+    border: 2px solid maroon;
+    font-family: MathJax_Math;
+    padding: 10px;
+    margin: 0px;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    height: 40%;
+}
+h2 {
+    text-align: center;
+    font-size: 1cm;
+    color: firebrick;
+    background-color: darkslategray;
+}
+th{
+    color: coral;
+    background-color: green;
+}
+td{
+    background-color: lightcoral;
+}
+body {
+    background-color: white;
+}
+.fruits{
+    border: 2px solid saddlebrown;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: coral;
+}
+.cars{
+    border: 2px dotted red;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+
+}
+h5{
+    text-align: center;
+}
+.FRUITS{
+    text-align: center;
+    border: 2px dotted midnightblue;
+    padding: 20px;
+    margin: 20px;
+    background-color: darkkhaki;
+}
+#school{
+    border: 5px dotted lawngreen;
+}

@@ -1,0 +1,27 @@
+label{
+    color: #63134c;
+    font-size: 20px;
+    text-align: center;
+    font-family: MathJax_Main;
+    margin:10px;
+}
+input{
+    text-align: center;
+    background-color: coral;
+    margin: 6px;
+    padding: 6px;
+}
+body {
+    background-color: khaki;
+    text-align: left;
+     border: black 6px solid;
+}
+select{
+    background-color: midnightblue;
+    color: darkkhaki;
+}
+border{
+    height: auto;
+    width: 2px;
+    padding: 6px;
+}
