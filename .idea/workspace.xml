@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f597d0d2-a0d1-4949-ac57-69650c0abfe5" name="Changes" comment="" />
+    <list default="true" id="f597d0d2-a0d1-4949-ac57-69650c0abfe5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gittest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +72,8 @@
       <workItem from="1676026589947" duration="4607000" />
       <workItem from="1676285591567" duration="8889000" />
       <workItem from="1676372834745" duration="5877000" />
-      <workItem from="1676458837967" duration="1195000" />
+      <workItem from="1676458837967" duration="2993000" />
+      <workItem from="1676545661666" duration="1209000" />
     </task>
     <servers />
   </component>
